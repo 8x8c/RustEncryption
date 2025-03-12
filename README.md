@@ -1,7 +1,6 @@
 # Rust Encryption- One page encryption tools made with Rust. 
 
 
-Tech people from the last 10 years seem to jump on social media and try to flex and force the world to think that they are the best tech person ever. They spend more time trying to convince others of their skills than they do learning more tech. Such flexing is silly- Ai is profoundly far superior to the childish, egotistical brain of any tech person. 
 
 This is a special repo- it adheres to strict design practices. The apps here are mostly one page of main.rs and a small Cargo.toml file-, which compiles to the executable apps. As such, the apps are incredibly easy to customize or audit. 
 
