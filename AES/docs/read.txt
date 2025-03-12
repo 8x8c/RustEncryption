@@ -1,0 +1,3 @@
+./aes encrypt -i api.html -o encrypted.html -p "YourStrongPassword"
+
+./aes decrypt -i encrypted.html -o decrypted.html -p "YourStrongPassword"
