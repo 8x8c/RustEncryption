@@ -11,7 +11,7 @@ The design is to have each small app do a single task- and do it well. Large cod
 
 Each app is as simple to run as possible. Large and complicated encryption apps have too many commands.
 
-In short, the apps in this repo are made for extreme privacy. The code is one page and super easy to feed to Ai to audit or change. Trusting another closed-source app is absurd. In fact, for years and years, “security”| apps have been found to be made with one form or another of malware or spyware. THE AGE OF Ai IS HERE! You do NOT have to rely on bad actors to code apps for you, then hide the code! Even if you do not know how to code- you can still have Ai code for you or audit open source code! 
+In short, the apps in this repo are made for extreme privacy. The code is one page and super easy to feed to Ai to audit or change. Trusting another closed-source app is absurd. In fact, for years and years, “security”| apps have been found to be made with one form or another of malware or spyware. THE AGE OF Ai IS HERE! You do NOT have to rely on bad actors to code apps for you! Even if you do not know how to code- you can still have Ai code for you or audit open source code! 
 
 
 
