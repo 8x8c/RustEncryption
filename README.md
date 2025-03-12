@@ -2,7 +2,7 @@
 
 
 
-This is a special repo- it adheres to strict design practices. The apps here are mostly one page of main.rs and a small Cargo.toml file-, which compiles to the executable apps. As such, the apps are incredibly easy to customize or audit. 
+Adheres to strict design practices. The apps here are mostly one page of main.rs and a small Cargo.toml file-, which compiles to the executable apps. As such, the apps are incredibly easy to customize or audit. 
 
 This repo is TRUE privacy oriented. The NAMES of each app do not matter. In fact, you are encouraged to re-name the app before you compile it. This is done by editing cargo.toml or simply re-naming the app after it is compiled. 
 
